@@ -6,6 +6,10 @@ module.exports = {
   mode: 'jit',
   theme: {
     extend: {
+      colors: {
+        'regal-blue': '#243c5a',
+        foret: '#228b22',
+      },
       typography: (theme) => ({
         DEFAULT: {
           css: {
