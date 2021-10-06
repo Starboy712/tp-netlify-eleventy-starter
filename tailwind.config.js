@@ -10,6 +10,10 @@ module.exports = {
         'regal-blue': '#243c5a',
         foret: '#228b22',
       },
+      fontFamily: {
+        segoe: ['segoe ui'],
+        sans: ['sans sherif'],
+      },
       typography: (theme) => ({
         DEFAULT: {
           css: {
