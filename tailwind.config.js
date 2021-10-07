@@ -14,6 +14,9 @@ module.exports = {
         segoe: ['segoe ui'],
         sans: ['sans sherif'],
       },
+      // screens: {
+      //   portrait: { raw: '(orientation: portrait)' },
+      // },
       typography: (theme) => ({
         DEFAULT: {
           css: {
